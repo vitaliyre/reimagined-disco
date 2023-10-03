@@ -1,3 +1,3 @@
 # reimagined-disco
-#vitaliy revenko
-#vitaliy.revenko@wsu.edu
+Vitaliy Revenko
+vitaliy.revenko@wsu.edu
